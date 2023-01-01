@@ -13,6 +13,7 @@
 		0E52FCCC294BAB02002790ED /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E52FCCB294BAB02002790ED /* Preview Assets.xcassets */; };
 		0E52FCD5294BAB8A002790ED /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E52FCD4294BAB89002790ED /* Card.swift */; };
 		0E52FCD7294BAC59002790ED /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E52FCD6294BAC59002790ED /* HomeView.swift */; };
+		0E8D1C142962237F003B1570 /* BoomerangCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E8D1C132962237F003B1570 /* BoomerangCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		0E52FCCB294BAB02002790ED /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0E52FCD4294BAB89002790ED /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		0E52FCD6294BAC59002790ED /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		0E8D1C132962237F003B1570 /* BoomerangCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoomerangCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				0E52FCC6294BAB01002790ED /* ContentView.swift */,
 				0E52FCD6294BAC59002790ED /* HomeView.swift */,
+				0E8D1C132962237F003B1570 /* BoomerangCard.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -160,6 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0E52FCC7294BAB01002790ED /* ContentView.swift in Sources */,
+				0E8D1C142962237F003B1570 /* BoomerangCard.swift in Sources */,
 				0E52FCD7294BAC59002790ED /* HomeView.swift in Sources */,
 				0E52FCD5294BAB8A002790ED /* Card.swift in Sources */,
 				0E52FCC5294BAB01002790ED /* AnimalCardApp.swift in Sources */,
