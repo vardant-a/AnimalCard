@@ -1,4 +1,4 @@
-# AnimalCard
+# BoomerangCard
 <p align="center">
 <img src = "Assets/Logo.png" /><br>
   <img src = "https://img.shields.io/badge/Platform-iOS%2016.0%2B-orange"/>
